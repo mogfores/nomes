@@ -1,4 +1,4 @@
-# Qual a influência de políticos nos registro dos nomes de recem-nascidos no Brasil
+## Qual a influência de políticos nos registro dos nomes de recem-nascidos no Brasil
 
 Como todos sabem, pessoas famosas como artistas, atletas e até políticos exercem certa influência social
 na escolha de nomes de recém-nascidos.
@@ -27,4 +27,8 @@ Sendo assim, a metodologia é baseada em algumas pressimas:
 * tem que ser popular na sua época E,
 * o nome tem que ser incomum.
 
-No entanto, o que seria um nome incomum? Bem, aqueles cuja frequência seja baixa
+No entanto, o que seria um nome incomum? Bem, aqueles cuja frequência não esteja listada no Ranking dos nomes.
+Para isso, o IBGE disponibiliza o ranking dos nomes bem mais cotatos desde a década de 1930 até 2010.
+
+
+
