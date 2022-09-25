@@ -1,14 +1,14 @@
 ## Qual a influência de políticos nos registro dos nomes de recem-nascidos no Brasil
 
-Como todos sabem, pessoas famosas como artistas, atletas e até políticos exercem certa influência social
-na escolha de nomes de recém-nascidos.
+Como todos sabem, pessoas famosas como artistas,  atletas, atores entre outros podem influência na escolha
+de nomes de recém-nascidos, no entanto, é possível dizer que o mesmo se aplica a políticos populares?
 
 Já que estamos em ano eleitoral (2022), tive uma certa curiosidade em saber até que ponto as pessoas estão
 dispostas em dar nomes de políticos aos seus futuros herdeiros.
 
 Para testar a hipótese que os políticos, no auge da sua 'carreira', tiveram influência no registro de nomes, 
-é necessário que seu mandato tenha ocasionado os registros, e que ao passo do término do mesmo, os registros
-tenham que cair.
+é necessário que seu mandato tenha ocasionado aumento de registros de nomes, e que ao passo do término do mesmo, 
+os registros tenham que cair.
 
 Navegando pelo site do IBGE - Instituto Brasileiro de Geografia e Estatística, é possível extrair através
 de API muitos dados sobre o Brasil, como economia, saúde, agronegócio e até mesmo nomes de pessoas.
