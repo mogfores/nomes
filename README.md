@@ -32,9 +32,9 @@ Sendo assim, a metodologia é baseada em algumas pressimas:
 * o nome tem que ser incomum.
 
 
-
-No entanto, o que seria um nome incomum? Bem, aqueles cuja frequência não esteja listada no Ranking dos nomes.
-Para isso, o IBGE disponibiliza o ranking dos 20 nomes bem mais cotatos desde a década de 1930 até 2010.
+No entanto, o que seria um nome incomum? Bem, um bom ponto de partida seriam aqueles cuja frequência não 
+esteja listada no Ranking dos nomes. Para isso, o IBGE disponibiliza o ranking dos 20 nomes bem mais 
+cotatos desde a década de 1930 até 2010.
 
 
 
