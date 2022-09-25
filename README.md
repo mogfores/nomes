@@ -20,8 +20,7 @@ por causa do seu mandato.
 
 Como exemplo, mostrarei como meu próprio nome cresceu no Brasil, de 1930 até 2010:
 
-
-
+![image](https://user-images.githubusercontent.com/89140035/192169229-653e84e7-6aad-405f-af7e-baa3f797ca89.png)
 
 No exemplo acima, seria muito difícil dizer se um nome comum como "eduardo", "maria" ou "joão", sendo políticos,
 teriam alguma influência, uma vez que o mais natural é que tais nomes sejam a escolha provável de registro.
