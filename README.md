@@ -1,4 +1,4 @@
-# Qual a influência de pessoas famosas nos registro dos nomes de recem-nascidos.
+# Qual a influência de políticos nos registro dos nomes de recem-nascidos no Brasil
 
 Como todos sabem, pessoas famosas como artistas, atletas e até políticas exercem certa influência social
 na escolha de nomes de recém-nascidos.
