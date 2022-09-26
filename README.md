@@ -119,8 +119,8 @@ VITOR = 244.503 | FELIPE = 227.960 | LETICIA = 209.359 | MARCOS = 201.182 | RAFA
 ![image](https://user-images.githubusercontent.com/89140035/192293842-705e0de1-8877-4b42-96ab-eb9827f83262.png)
 
 
-Conforme vemos nos gráficos acima, o nome Maria foi predominante da década 1970 até a década de 1980, quando começou a cair, 
-recuperando a escolha na década de 2010. Já no caso de José, seguiu uma tendência de alta até a década de 1970, quando começou
+Conforme vemos nos gráficos acima, o nome 'Maria' foi predominante da década 1970 até a década de 1980, quando começou a cair, 
+recuperando a escolha na década de 2010, seguindo a disputa p. Já no caso de José, seguiu uma tendência de alta até a década de 1970, quando começou
 a cair. Porém, seguiu sendo o nome queridinho até a década de 1990, só perdendo para a própria Maria. Nos anos 2000 José
 ocupou a 4º posição, e na década seguinte a 8º posição. Apesar das quedas em ambos os nomes, com maior acentuação do José,
 podemos afirmar que o Brasil ainda é um país de Josés e Marias, seguindo a mesma tendência de Portugal.
