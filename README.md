@@ -127,11 +127,11 @@ de tendência de alta, apesar que tímida.
 
 Veja que o levantamento, desde a década de 1930 até 2010, não houve no top 20 nenhum nome do tipo 'Derly', 'Waldecy' ou 'Elzio'.
 Isso mostra que apesar de vermos muitos nomes curiosos hoje em dia, a grande preferência da maioria da população no Brasil
-são aqueles tradicionais, com forte apelo a cultura-religiosa cristã, tais como: Paulo, Francisco, Tiago, Antônio, João, entre outro.
+são aqueles tradicionais, com forte apelo a cultura-religiosa cristã, tais como: Paulo, Francisco, Tiago, Antônio, João, entre outros.
 
 
-Eduardo Mogfores
-26/09/2022
+</Eduardo Mogfores
+26/09/2022/>
 
 
 
