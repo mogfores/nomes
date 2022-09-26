@@ -34,7 +34,7 @@ começando pela década de 1930 até o último ceso, realizado em 2010.
 
 *Apenas como título de curiosidade, o primeiro censo brasileiro foi realizado em 1872, do qual recebeu o nome
 de Recenseamento da População do Império do Brasil. A lei foi outorgada em 1870, estabelecendo que o censo
-deveria ocorrer a cada 10 anos. <https://biblioteca.ibge.gov.br/biblioteca-catalogo.html?id=212910&view=detalhes>
+deveria ocorrer a cada 10 anos. <https://biblioteca.ibge.gov.br/biblioteca-catalogo.html?id=212910&view=detalhes>*
 
 #### 1930
 
@@ -42,7 +42,7 @@ deveria ocorrer a cada 10 anos. <https://biblioteca.ibge.gov.br/biblioteca-catal
 
 *MARIA = 336.477 | JOSE = 118.121 | ANTONIO = 60.651 | JOAO = 60.155 | ANA = 33.395 | FRANCISO = 33.338 | MANOEL = 28.241
 FRANCISCA = 27.317 | ANTONIA = 22.746 | PEDRO = 21.483 | JOSEFA = 19.421 | RAIMUNDO = 17.300 | SEBASTIAO = 17.299
-RAIMUNDA = 16.455 | ROSA = 15.097 | JOANA = 14.520 | JOAQUIM = 13.809 | MANUEL = 12.185 | LUIZ = 11.073 | SEBASTIANA = 10.365    	      
+RAIMUNDA = 16.455 | ROSA = 15.097 | JOANA = 14.520 | JOAQUIM = 13.809 | MANUEL = 12.185 | LUIZ = 11.073 | SEBASTIANA = 10.365*   	      
    	      
 #### 1940   	      
   
