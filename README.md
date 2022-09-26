@@ -22,24 +22,21 @@ de APIs muitos dados sobre o Brasil, como economia, saúde, agronegócio e até 
 pode se dar por época, nome, época e nome, caso queira saber mais, clique no link aqui <https://servicodados.ibge.gov.br/api/docs/nomes?versao=2>
 
 
-
-
-Como exemplo, mostrarei como meu próprio nome cresceu no Brasil, de 1930 até 2010:
+Como exemplo, mostrarei a evolução de preferência como meu próprio no Brasil, de 1930 até 2010:
 
 ![image](https://user-images.githubusercontent.com/89140035/192169229-653e84e7-6aad-405f-af7e-baa3f797ca89.png)
 
-No exemplo acima, seria muito difícil dizer se um nome comum como "eduardo", "maria" ou "joão", sendo políticos,
-teriam alguma influência, uma vez que o mais natural é que tais nomes sejam a escolha provável de registro.
-Sendo assim, a metodologia é baseada em algumas pressimas:
+#### Mas e as Marias e os Josés?
 
-* Tem que ser um nome de um político E,
-* o político tem que ter sido muito popular na sua época E,
-* o nome tem que ser incomum.
+Para extração dos top 20, foi feito um GET, através da biblioteca 'requests' do Python, caso queira consultar o
+pequeno script, o disponibilizei no repositório. Com isso foi possível verificar a frequência dos nomes mais preferidos,
+começando pela década de 1930 até o último ceso, realizado em 2010.
+
+*Apenas como título de curiosidade, o primeiro censo brasileiro foi realizado em 1872, do qual recebeu o nome
+de Recenseamento da População do Império do Brasil. A lei foi outorgada em 1870, estabelecendo que o censo
+deveria ocorrer a cada 10 anos. <https://biblioteca.ibge.gov.br/biblioteca-catalogo.html?id=212910&view=detalhes>
 
 
-No entanto, o que seria um nome incomum? Bem, um bom ponto de partida seriam aqueles cuja frequência não 
-esteja listada no Ranking dos nomes. Para isso, o IBGE disponibiliza o ranking dos 20 nomes bem mais 
-cotatos desde a década de 1930 até 2010.
 
 
 
