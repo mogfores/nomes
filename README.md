@@ -1,3 +1,16 @@
+## Brasil: Um país de Marias e Josés
+
+Como todos podem notar, estamos em ano eleitoral (2022), e dando uma leve olhada nas campanhas eleitorais
+(com muito esforço para não rir, ou chorar) vemos muitos nomes ditos 'diferentes'. É claro que boa parte
+são nomes de guerra, com única finalidade de atrair a atenção do público para conquistar alguns votos. No
+entanto, tantos outros são diferentes, vejamos alguns exemplos: Derly, Waldecy, Elzio e tantos outros que
+me fez pensar se o país está deixando de ser Marias e Josés.
+
+
+
+
+
+
 ## Qual a influência de políticos nos registro dos nomes de recem-nascidos no Brasil
 
 Como todos sabem, pessoas famosas como artistas,  atletas, atores entre outros podem influência na escolha
