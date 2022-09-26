@@ -13,7 +13,7 @@ Vemos que ainda em 2019, os nomes mais comuns para mulheres são Maria, em prime
 Já para os homens, em primeiro lugar o nome Santiago (que acredito ser de origem espanhola), seguidos por
 Francisco e João, sendo que o nome José nem aparece no top 10.
 
-Agora para saber se esses nomes 'diferentinhos' estão dominando o gostos dos recém-papais-e-mamães, é preciso
+Agora para saber se esses nomes 'diferentinhos' estão dominando os gostos dos recém-papais-e-mamães, é preciso
 fazer o levantamento de todos os nomes das últimas décadas e ver sua evolução. Desta forma é possível testar
 a hipótese que as 'Marias' e os 'Josés' ainda são donos desta terra.
 
