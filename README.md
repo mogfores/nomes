@@ -36,7 +36,7 @@ começando pela década de 1930 até o último ceso, realizado em 2010.
 de Recenseamento da População do Império do Brasil. A lei foi outorgada em 1870, estabelecendo que o censo
 deveria ocorrer a cada 10 anos. <https://biblioteca.ibge.gov.br/biblioteca-catalogo.html?id=212910&view=detalhes>*
 
-#### 1930
+#### 1930 : Os nomes mais escolhidos da década
 
 ![image](https://user-images.githubusercontent.com/89140035/192269719-0cce3573-f72a-40b1-9070-ceef3d36e229.png)
 
@@ -44,7 +44,7 @@ deveria ocorrer a cada 10 anos. <https://biblioteca.ibge.gov.br/biblioteca-catal
 FRANCISCA = 27.317 | ANTONIA = 22.746 | PEDRO = 21.483 | JOSEFA = 19.421 | RAIMUNDO = 17.300 | SEBASTIAO = 17.299 | 
 RAIMUNDA = 16.455 | ROSA = 15.097 | JOANA = 14.520 | JOAQUIM = 13.809 | MANUEL = 12.185 | LUIZ = 11.073 | SEBASTIANA = 10.365*   	      
    	      
-#### 1940   	      
+#### 1940 : Os nomes mais escolhidos da década   	      
   
 ![image](https://user-images.githubusercontent.com/89140035/192274860-380bbb11-6c9a-4b7f-aef4-56ee577557bc.png)
 
@@ -53,7 +53,7 @@ ANA = 56.160 | FRANCISCA = 50.099 | PEDRO	49.143 = SEBASTIAO = 45.035 | TEREZINH
 RAIMUNDO = 41.825 | JOSEFA = 37.220 | RAIMUNDA = 31.166 | LUIZ = 31.114 | TEREZA = 30.545 | GERALDO = 29.624 | 
 JOAQUIM = 27.493 | MANUEL = 26.309*
 
-#### 1950
+#### 1950 : Os nomes mais escolhidos da década
 
 ![image](https://user-images.githubusercontent.com/89140035/192276813-38c0f4af-fa8a-4e6f-8fdb-f0e9a0e04e18.png)
 
@@ -61,7 +61,7 @@ JOAQUIM = 27.493 | MANUEL = 26.309*
 FRANCISCA = 91.799 | PEDRO = 86.926 | SEBASTIAO = 84.668 | RAIMUNDO = 80.134 | LUIZ = 74.213 | ANTONIA = 72.229 | TEREZINHA = 65.194 | 
 JOSEFA = 61.101 | PAULO = 60.073 | GERALDO = 56.005 | CARLOS = 53.410 | RAIMUNDA = 50.089 | LUIS =	48.056*
 
-#### 1960
+#### 1960 : Os nomes mais escolhidos da década
 
 ![image](https://user-images.githubusercontent.com/89140035/192278016-5e3dbee4-ea4b-4c45-902d-5be503e93ef0.png)
 
@@ -69,7 +69,7 @@ JOSEFA = 61.101 | PAULO = 60.073 | GERALDO = 56.005 | CARLOS = 53.410 | RAIMUNDA
 LUIZ = 162.493 | CARLOS = 154.038 | PEDRO = 126.205 | RAIMUNDO = 116.544 | MANOEL = 116.085 | FRANCISCA = 114.117 | LUIS = 113.470 | 
 SEBASTIAO = 112.708 | VERA = 112.453 | JORGE = 99.457 | SONIA = 92.602 | ANTONIA = 92.052 | TEREZINHA = 84.879*
 
-#### 1970
+#### 1970 : Os nomes mais escolhidos da década
 
 ![image](https://user-images.githubusercontent.com/89140035/192279962-77b5451c-d602-4a76-9216-e0aeff49f3f3.png)
 
@@ -77,7 +77,7 @@ SEBASTIAO = 112.708 | VERA = 112.453 | JORGE = 99.457 | SONIA = 92.602 | ANTONIA
 PAULO = 264.587 | LUIZ = 198.312 | LUIS = 162.943 | MARCOS = 137.775 | RAIMUNDO = 135.106 | MARCIA = 134.918 | PEDRO = 132.795 | 
 FRANCISCA = 130.467 | SANDRA = 128.709 | VERA = 126.329 | SONIA = 125.236 | JORGE = 113.041 | MANOEL = 112.892*
 
-#### 1980
+#### 1980 : Os nomes mais escolhidos da década
 
 ![image](https://user-images.githubusercontent.com/89140035/192281256-fc672647-cee9-4eea-a532-cd5bcab84800.png)
 
@@ -85,7 +85,7 @@ FRANCISCA = 130.467 | SANDRA = 128.709 | VERA = 126.329 | SONIA = 125.236 | JORG
 CARLOS = 258.333 | MARCOS = 256.225 | ADRIANA = 247.099 | MARCELO = 224.990 | MARCIA = 204.595 | MARCIO = 180.626 | SANDRA = 177.796 | 
 LUCIANA = 174.777 | CLAUDIA = 154.258 | PATRICIA = 152.381 | LUIZ = 146.253 | ALEXANDRE = 145.708 | SIMONE = 142.900*
 
-#### 1990
+#### 1990 : Os nomes mais escolhidos da década
 
 ![image](https://user-images.githubusercontent.com/89140035/192282514-3a765635-70d8-4564-9784-407cc3ececf1.png)
 
@@ -93,7 +93,7 @@ LUCIANA = 174.777 | CLAUDIA = 154.258 | PATRICIA = 152.381 | LUIZ = 146.253 | AL
 RAFAEL = 262.250 | PAULO = 259.594 | RODRIGO = 250.186 | MARCOS = 241.551 | FABIO = 236.374 | JULIANA = 229.182 | LEANDRO = 224.389 | 
 MARCELO = 207.902 | PATRICIA = 207.672 | TIAGO = 202.332 | ADRIANA = 195.003 | ALINE = 192.912 | ANDRE = 191.597*
 
-#### 2000
+#### 2000 : Os nomes mais escolhidos da década
 
 ![image](https://user-images.githubusercontent.com/89140035/192284929-13a4a5d6-da11-483a-be92-7b58e9eaa021.png)
 
@@ -101,7 +101,7 @@ MARCELO = 207.902 | PATRICIA = 207.672 | TIAGO = 202.332 | ADRIANA = 195.003 | A
 BRUNO = 291.524 | GABRIEL = 271.405 | FELIPE = 263.480 | BRUNA = 243.948 | MARCOS = 219.198 | MATEUS = 218.839 | ALINE = 211.777 | 
 PAULO = 211.265 | LEONARDO = 210.481 | AMANDA = 209.251 | CAMILA = 205.816 | CARLOS = 198.370 | FRANCISCO = 195.901*
 
-#### 2010
+#### 2010 : Os nomes mais escolhidos da década
 
 ![image](https://user-images.githubusercontent.com/89140035/192286250-f8f40ed9-1606-4738-b142-2c25f988f833.png)
 
@@ -110,18 +110,18 @@ JOSE = 316.568 | GUSTAVO = 305.050 | VITORIA = 284.471 | GUILHERME = 279.111 | C
 VITOR = 244.503 | FELIPE = 227.960 | LETICIA = 209.359 | MARCOS = 201.182 | RAFAEL = 195.970 | LUIZ = 194.790 | DANIEL = 194.553*
 
 
-
-
-Maria
+#### Apenas Marias : de 1930 a 2010
 
 ![image](https://user-images.githubusercontent.com/89140035/192292768-bc550ce2-e80f-4289-b80e-8b779f221006.png)
 
-José
+#### Apenas Josés : de 1930 a 2010
 
 ![image](https://user-images.githubusercontent.com/89140035/192293842-705e0de1-8877-4b42-96ab-eb9827f83262.png)
 
 
-
+Conforme vemos nos gráficos acima, o nome Maria foi predominante até a década de 1970, quando que da década de 1980 para frente
+começou a cair, recuperando a escolha na década de 2010. Com essa recuperação, vemos que a linha de tendência manteve-se em alta, porém
+é possível supor que o nome Maria será superado 
 
 
 
