@@ -8,33 +8,21 @@ me fez pensar se o país está deixando de ser Marias e Josés.
 
 Digo país de Marias e Josés, pelo motivo de termos forte influência cristã e por não dizer da própria cultura
 portuguesa. Um artigo publicado pelo site Euro Dicas, clique aqui <https://www.eurodicas.com.br/lista-de-nomes-permitidos-em-portugal/>
-de 2019, traz uma lista dos nomes permitidos e destes, os mais comuns que são registrados na nossa antiga metrópele.
+de 2019, traz uma lista dos nomes permitidos e destes, os mais comuns que são registrados na nossa antiga metrópole.
 Vemos que ainda em 2019, os nomes mais comuns para mulheres são Maria, em primeiro, seguidos de Leonar e Matilde.
 Já para os homens, em primeiro lugar o nome Santiago (que acredito ser de origem espanhola), seguidos por
 Francisco e João, sendo que o nome José nem aparece no top 10.
 
-
-
-
-## Qual a influência de políticos nos registro dos nomes de recem-nascidos no Brasil
-
-Como todos sabem, pessoas famosas como artistas,  atletas, atores entre outros podem influência na escolha
-de nomes de recém-nascidos, no entanto, é possível dizer que o mesmo se aplica a políticos populares?
-
-Já que estamos em ano eleitoral (2022), tive uma certa curiosidade em saber até que ponto as pessoas estão
-dispostas em dar nomes de políticos aos seus futuros herdeiros.
-
-Para testar a hipótese que os políticos, no auge da sua 'carreira', tiveram influência no registro de nomes, 
-é necessário que seu mandato tenha ocasionado aumento de registros de nomes, e que ao passo do término do mesmo, 
-os registros tenham que cair.
+Agora para saber se esses nomes 'diferentinhos' estão dominando o gostos dos recém-papais-e-mamães, é preciso
+fazer o levantamento de todos os nomes das últimas décadas e ver sua evolução. Desta forma é possível testar
+a hipótese que as 'Marias' e os 'Josés' ainda são donos desta terra.
 
 Navegando pelo site do IBGE - Instituto Brasileiro de Geografia e Estatística, é possível extrair através
-de API muitos dados sobre o Brasil, como economia, saúde, agronegócio e até mesmo nomes de pessoas.
+de APIs muitos dados sobre o Brasil, como economia, saúde, agronegócio e até mesmo nomes de pessoas. A extração
+pode se dar por época, nome, época e nome, caso queira saber mais, clique no link aqui <https://servicodados.ibge.gov.br/api/docs/nomes?versao=2>
 
-Apesar de parecer uma simples pesquisa, é preciso tomar cuidado para não cair em conclusões enviesadas. Afinal,
-o Brasil supera a casa dos 215 milhões de habitantes, é fácil de perceber que boa parte dos nomes cresceram
-no país como um todo, então simplesmente não podemos dizer que o nome "x" de um presidente cresceu no Brasil
-por causa do seu mandato.
+
+
 
 Como exemplo, mostrarei como meu próprio nome cresceu no Brasil, de 1930 até 2010:
 
