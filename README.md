@@ -22,7 +22,7 @@ de APIs muitos dados sobre o Brasil, como economia, saúde, agronegócio e até 
 pode se dar por época, nome, época e nome, caso queira saber mais, clique no link aqui <https://servicodados.ibge.gov.br/api/docs/nomes?versao=2>
 
 
-Como exemplo, mostrarei a evolução de preferência como meu próprio no Brasil, de 1930 até 2010:
+Como exemplo, mostrarei a evolução de preferência do meu nome no Brasil, de 1930 até 2010:
 
 ![image](https://user-images.githubusercontent.com/89140035/192169229-653e84e7-6aad-405f-af7e-baa3f797ca89.png)
 
@@ -52,6 +52,47 @@ RAIMUNDA = 16.455 | ROSA = 15.097 | JOANA = 14.520 | JOAQUIM = 13.809 | MANUEL =
 ANA = 56.160 | FRANCISCA = 50.099 | PEDRO	49.143 = SEBASTIAO = 45.035 | TEREZINHA = 44.876 | ANTONIA = 42.629 
 RAIMUNDO = 41.825 | JOSEFA = 37.220 | RAIMUNDA = 31.166 | LUIZ = 31.114 | TEREZA = 30.545 | GERALDO = 29.624 
 JOAQUIM = 27.493 | MANUEL = 26.309*
+
+#### 1950
+
+![image](https://user-images.githubusercontent.com/89140035/192276813-38c0f4af-fa8a-4e6f-8fdb-f0e9a0e04e18.png)
+
+MARIA = 1.487.042 | JOSE = 648.754 | ANTONIO = 314.375 | JOAO = 256.001 | FRANCISCO = 160.721 | ANA = 101.259 | MANOEL = 95.014 
+FRANCISCA = 91.799 | PEDRO = 86.926 | SEBASTIAO = 84.668 | RAIMUNDO = 80.134 | LUIZ = 74.213 | ANTONIA = 72.229 | TEREZINHA = 65.194 
+JOSEFA = 61.101 | PAULO = 60.073 | GERALDO = 56.005 | CARLOS = 53.410 | RAIMUNDA = 50.089 | LUIS =	48.056 
+
+#### 1960
+
+
+
+
+
+
+#### 1970
+
+
+
+
+#### 1980
+
+
+
+
+#### 1990
+
+
+
+
+#### 2000
+
+
+
+
+
+#### 2010
+
+
+
 
 
 
