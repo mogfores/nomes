@@ -110,6 +110,14 @@ JOSE = 316.568 | GUSTAVO = 305.050 | VITORIA = 284.471 | GUILHERME = 279.111 | C
 VITOR = 244.503 | FELIPE = 227.960 | LETICIA = 209.359 | MARCOS = 201.182 | RAFAEL = 195.970 | LUIZ = 194.790 | DANIEL = 194.553*
 
 
+Maria
+
+![image](https://user-images.githubusercontent.com/89140035/192292768-bc550ce2-e80f-4289-b80e-8b779f221006.png)
+
+José
+
+
+
 
 
 
