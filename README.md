@@ -46,3 +46,4 @@ RAIMUNDA = 16.455 | ROSA = 15.097 | JOANA = 14.520 | JOAQUIM = 13.809 | MANUEL =
    	      
 #### 1940   	      
   
+![image](https://user-images.githubusercontent.com/89140035/192274860-380bbb11-6c9a-4b7f-aef4-56ee577557bc.png)
