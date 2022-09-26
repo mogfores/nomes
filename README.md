@@ -30,7 +30,7 @@ Como exemplo, mostrarei a evolução de preferência do meu nome no Brasil, de 1
 
 Para extração dos top 20, foi feito um GET, através da biblioteca 'requests' do Python, caso queira consultar o
 pequeno script, o disponibilizei no repositório. Com isso, foi possível verificar a frequência dos nomes mais preferidos,
-começando pela década de 1930 até o último ceso, realizado em 2010.
+começando pela década de 1930 até o último censo, realizado em 2010.
 
 *Apenas como título de curiosidade, o primeiro censo brasileiro foi realizado em 1872, do qual recebeu o nome
 de Recenseamento da População do Império do Brasil. A lei foi outorgada em 1870, estabelecendo que o censo
