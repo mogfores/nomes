@@ -122,13 +122,16 @@ VITOR = 244.503 | FELIPE = 227.960 | LETICIA = 209.359 | MARCOS = 201.182 | RAFA
 Conforme vemos nos gráficos acima, o nome 'Maria' foi predominante da década 1970 até a década de 1980, quando começou a cair, 
 recuperando a escolha na década de 2010, seguindo a disputa pela 'Ana'. Já no caso de 'José', seguiu uma tendência de alta até a 
 década de 1970, quando começou a cair. Porém, seguiu sendo o nome queridinho até a década de 1990, só perdendo para a própria Maria.
-Nos anos 2000 José ocupou a 4º posição, e na década seguinte a 8º posição. Apesar disso, ambos os nomes ainda mantém uma linha
+Nos anos 2000 José ocupou a 4º posição, e na década seguinte a 8º posição. Apesar disso, ambos os nomes ainda mantêm uma linha
 de tendência de alta, apesar que tímida.
 
 Veja que o levantamento, desde a década de 1930 até 2010, não houve no top 20 nenhum nome do tipo 'Derly', 'Waldecy' ou 'Elzio'.
 Isso mostra que apesar de vermos muitos nomes curiosos hoje em dia, a grande preferência da maioria da população no Brasil
 são aqueles tradicionais, com forte apelo a cultura-religiosa cristã, tais como: Paulo, Francisco, Tiago, Antônio, João, entre outro.
 
+
+Eduardo Mogfores
+26/09/2022
 
 
 
