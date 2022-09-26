@@ -6,7 +6,12 @@ são nomes de guerra, com única finalidade de atrair a atenção do público pa
 entanto, tantos outros são diferentes, vejamos alguns exemplos: Derly, Waldecy, Elzio e tantos outros que
 me fez pensar se o país está deixando de ser Marias e Josés.
 
-
+Digo país de Marias e Josés, pelo motivo de termos forte influência cristã e por não dizer da própria cultura
+portuguesa. Um artigo publicado pelo site Euro Dicas, clique aqui <https://www.eurodicas.com.br/lista-de-nomes-permitidos-em-portugal/>
+de 2019, traz uma lista dos nomes permitidos e destes, os mais comuns que são registrados na nossa antiga metrópele.
+Vemos que ainda em 2019, os nomes mais comuns para mulheres são Maria, em primeiro, seguidos de Leonar e Matilde.
+Já para os homens, em primeiro lugar o nome Santiago (que acredito ser de origem espanhola), seguidos por
+Francisco e João, sendo que o nome José nem aparece no top 10.
 
 
 
